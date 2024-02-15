@@ -18,7 +18,7 @@ The primary goal of FR Direct is to minimize response times for emergencies by i
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/FR-Direct.git`
+1. Clone the repository: `git clone https://github.com/sumanmallah/SoftwareEngineering-project-First_Responders_route
 
 ## Usage
 
