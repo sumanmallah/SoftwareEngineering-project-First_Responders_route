@@ -30,7 +30,3 @@ The primary goal of FR Direct is to minimize response times for emergencies by i
 ## Contributing
 
 We welcome contributions from the community. Please fork the repository and submit pull requests with your enhancements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
